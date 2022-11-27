@@ -1,6 +1,6 @@
 # 계산기 앱 만들기
 ===========
-![계산기](https://user-images.githubusercontent.com/55949986/170426368-c2690e18-f01e-4b68-b62b-5da2b6c139ec.gif)
+<img src="https://user-images.githubusercontent.com/55949986/170426368-c2690e18-f01e-4b68-b62b-5da2b6c139ec.gif" width="300" height="500"/>
 
 * 아이폰 기본 계산기 앱과 유사한 계산기 앱
 * 숫자를 보여주는 label과 여러개의 button으로 구성
