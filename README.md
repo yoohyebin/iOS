@@ -19,6 +19,4 @@
 - [영화 추천 애플리케이션](NetflixStyleApp)
 - [맥주 추천 애플리케이션](Brewery)
 
-##### <Upper Intermediate>
 
-##### <Advanced>
