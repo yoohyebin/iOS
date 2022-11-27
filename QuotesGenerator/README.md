@@ -1,6 +1,6 @@
 명언 생성기 앱 만들기
 ===========
-<img src="https://user-images.githubusercontent.com/55949986/151308318-6638457f-cc33-4982-85d0-50158d4233cd.gif" width="300" height="400"/>
+<img src="https://user-images.githubusercontent.com/55949986/151308318-6638457f-cc33-4982-85d0-50158d4233cd.gif" width="250" height="450"/>
 
 * "명언 생성" 버튼을 클릭하면 랜덤으로 명언과 그 명언을 말한 사람의 이름 출력
 * storyboard를 사용하여 개발
