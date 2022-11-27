@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isHidden</key>
+	<false/>
+	<key>title</key>
+	<string>안내드립니다</string>
+	<key>detail</key>
+	<string>서비스 이용에 참고 부탁드립니다.</string>
+	<key>date</key>
+	<string>2021년 1월 31일(월) 00:00-03:00 (3시간)</string>
+</dict>
+</plist>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionType</key>
+		<string>main</string>
+		<key>sectionName</key>
+		<string>&quot;&quot;</string>
+		<key>contentItem</key>
+		<array>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster0</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>위트•풍부한 감정•드라마 장르•멀티캐스팅•감옥•한국 작품</string>
+				<key>imageName</key>
+				<string>poster1</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>거부할 수 없는 이끌림•다크•청춘 영화•드라마 장르•생존</string>
+				<key>imageName</key>
+				<string>poster2</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>액션•스릴러•복수•범죄•뉴욕•미국 작품•만화 원작•TV</string>
+				<key>imageName</key>
+				<string>poster3</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>리얼 인생극장•리얼리티 TV•팝 컬처•셀럽•쇼비즈•결혼</string>
+				<key>imageName</key>
+				<string>poster4</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>열혈의 도전•다크•긴장감  넘치는•스릴러•드라마 장르</string>
+				<key>imageName</key>
+				<string>poster5</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>도발•수사•다큐시리즈•기후변화•미국 작품•미니시리즈</string>
+				<key>imageName</key>
+				<string>poster6</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>리얼 인생극장•리얼리티 TV•결혼식 &amp; 로맨스•일본 작품</string>
+				<key>imageName</key>
+				<string>poster7</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>설렘주의•가슴 뭉클•로맨스•드라마 장르•코미디</string>
+				<key>imageName</key>
+				<string>poster8</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•가족•액션 &amp; 어드벤처•트레저 힌트•1930년대</string>
+				<key>imageName</key>
+				<string>poster9</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>가슴 뭉클•풍부한 감정•드라마 장르•의학•질병•직장</string>
+				<key>imageName</key>
+				<string>poster10</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>디스토피아•피로 물든•불길한 기운•무서운 이야기•다크</string>
+				<key>imageName</key>
+				<string>poster11</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>능수능란한•긴장감 넘치는•흥미진진•스릴러•드라마 장르</string>
+				<key>imageName</key>
+				<string>poster12</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster13</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster14</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster15</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster16</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster17</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster18</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster19</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster20</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionType</key>
+		<string>basic</string>
+		<key>sectionName</key>
+		<string>지금 뜨는 콘텐츠</string>
+		<key>contentItem</key>
+		<array>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster0</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>위트•풍부한 감정•드라마 장르•멀티캐스팅•감옥•한국 작품</string>
+				<key>imageName</key>
+				<string>poster1</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>거부할 수 없는 이끌림•다크•청춘 영화•드라마 장르•생존</string>
+				<key>imageName</key>
+				<string>poster2</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster3</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>리얼 인생극장•리얼리티 TV•팝 컬처•셀럽•쇼비즈•결혼</string>
+				<key>imageName</key>
+				<string>poster4</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>열혈의 도전•다크•긴장감  넘치는•스릴러•드라마 장르</string>
+				<key>imageName</key>
+				<string>poster5</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>contentItem</key>
+		<array>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster5</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>위트•풍부한 감정•드라마 장르•멀티캐스팅•감옥•한국 작품</string>
+				<key>imageName</key>
+				<string>poster6</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>거부할 수 없는 이끌림•다크•청춘 영화•드라마 장르•생존</string>
+				<key>imageName</key>
+				<string>poster7</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>액션•스릴러•복수•범죄•뉴욕•미국 작품•만화 원작•TV</string>
+				<key>imageName</key>
+				<string>poster8</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>리얼 인생극장•리얼리티 TV•팝 컬처•셀럽•쇼비즈•결혼</string>
+				<key>imageName</key>
+				<string>poster9</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>열혈의 도전•다크•긴장감  넘치는•스릴러•드라마 장르</string>
+				<key>imageName</key>
+				<string>poster10</string>
+			</dict>
+		</array>
+		<key>sectionType</key>
+		<string>basic</string>
+		<key>sectionName</key>
+		<string>신규 콘텐츠</string>
+	</dict>
+	<dict>
+		<key>sectionType</key>
+		<string>rank</string>
+		<key>sectionName</key>
+		<string>오늘 한국의 TOP 10 콘텐츠</string>
+		<key>contentItem</key>
+		<array>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster20</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster14</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster19</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster18</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster17</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>위트•풍부한 감정•드라마 장르•멀티캐스팅•감옥•한국 작품</string>
+				<key>imageName</key>
+				<string>poster16</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>거부할 수 없는 이끌림•다크•청춘 영화•드라마 장르•생존</string>
+				<key>imageName</key>
+				<string>poster15</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>액션•스릴러•복수•범죄•뉴욕•미국 작품•만화 원작•TV</string>
+				<key>imageName</key>
+				<string>poster13</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>리얼 인생극장•리얼리티 TV•팝 컬처•셀럽•쇼비즈•결혼</string>
+				<key>imageName</key>
+				<string>poster12</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>열혈의 도전•다크•긴장감  넘치는•스릴러•드라마 장르</string>
+				<key>imageName</key>
+				<string>poster11</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionType</key>
+		<string>large</string>
+		<key>sectionName</key>
+		<string>오직 넷플릭스에서</string>
+		<key>contentItem</key>
+		<array>
+			<dict>
+				<key>description</key>
+				<string>열혈의 도전•다크•긴장감  넘치는•스릴러•드라마 장르</string>
+				<key>imageName</key>
+				<string>poster11</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster14</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster18</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>리얼 인생극장•리얼리티 TV•팝 컬처•셀럽•쇼비즈•결혼</string>
+				<key>imageName</key>
+				<string>poster12</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>위트•풍부한 감정•드라마 장르•멀티캐스팅•감옥•한국 작품</string>
+				<key>imageName</key>
+				<string>poster16</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>거부할 수 없는 이끌림•다크•청춘 영화•드라마 장르•생존</string>
+				<key>imageName</key>
+				<string>poster15</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster19</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster17</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>액션•스릴러•복수•범죄•뉴욕•미국 작품•만화 원작•TV</string>
+				<key>imageName</key>
+				<string>poster13</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster20</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionType</key>
+		<string>basic</string>
+		<key>sectionName</key>
+		<string>영화제에서 상을 받은 영화</string>
+		<key>contentItem</key>
+		<array>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster9</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster10</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster11</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster12</string>
+			</dict>
+			<dict>
+				<key>description</key>
+				<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+				<key>imageName</key>
+				<string>poster13</string>
+				<key>New item</key>
+				<dict>
+					<key>description</key>
+					<string>흥미진진•판타지 애니메이션•액션 애니메이션•멀티캐스팅</string>
+					<key>imageName</key>
+					<string>poster14</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
