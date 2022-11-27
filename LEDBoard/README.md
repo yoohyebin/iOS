@@ -21,7 +21,8 @@ LED 전광판 애플리케이션 만들기
       *  스토리보드에서 view controller Scene 들 끼리 세그웨이 객체를 연결시켜 코드 없이 화면 전환
 
 * UIViewController LifeCycle
-      <img src="https://user-images.githubusercontent.com/55949986/170435366-fbb03f43-d9b9-4c24-a166-3a2089b58432.png" width="200" height="300"/>
+ 
+   *  <img src="https://user-images.githubusercontent.com/55949986/170435366-fbb03f43-d9b9-4c24-a166-3a2089b58432.png" width="200" height="300"/>
    *  loadView
       *  화면에 띄워줄 view를 만드는 메소드, view를 만들고 메모리에 올림 
       *  직접 호출 하면 안됨, 모두 직접적으로 코딩하여 만드는 경우를 제외하고서는 override 하지 않는게 좋음
