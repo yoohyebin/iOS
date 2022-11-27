@@ -1,6 +1,6 @@
 LED 전광판 앱 만들기
 ===========
-<img src="https://user-images.githubusercontent.com/55949986/170426933-006b2126-ac2c-42a2-ae93-4907af7cb8b5.gif" width="300" height="500"/>
+<img src="https://user-images.githubusercontent.com/55949986/170426933-006b2126-ac2c-42a2-ae93-4907af7cb8b5.gif" width="300" height="550"/>
 
 * 첫 화면은 색이 있는 label과 설정 버튼으로 구성되어 있다.
 * 설정 버튼을 클릭하면 첫 화면에 표시될 글자를 입력하는 textfield와 텍스트 색상과 배경 색상을 선택할 수 있는 버튼이 있다.
