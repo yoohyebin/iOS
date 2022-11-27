@@ -1,4 +1,4 @@
-LED 전광판  만들기
+LED 전광판 애플리케이션 만들기
 ===========
 <img src="https://user-images.githubusercontent.com/55949986/170426933-006b2126-ac2c-42a2-ae93-4907af7cb8b5.gif" width="300" height="550"/>
 
