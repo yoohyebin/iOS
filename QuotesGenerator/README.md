@@ -1,4 +1,4 @@
-명언 생성기 앱 만들기
+명언 생성기 애플리케이션 만들기
 ===========
 <img src="https://user-images.githubusercontent.com/55949986/151308318-6638457f-cc33-4982-85d0-50158d4233cd.gif" width="300" height="550"/>
 
