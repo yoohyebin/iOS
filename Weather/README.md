@@ -34,4 +34,12 @@
     
 
 * URLSession
-  * 특정한 url 을 이용하여 데이터를 다운로드하고 업로드하기 위한 API
+  * 특정한 url을 이용하여 앱에서 서버와 통신하기 위한 API
+  * HTTP를 포함한 몇 가지 프로토콜을 지원하고 인증, 쿠키 관리, 캐시 관리 등을 지원
+
+* URLSessionConfiguration
+ * URLSession을 생성하기 위해서 필요한 요소
+ * Configuration을 생성할 때는 URLSession 정책에 따라서 default, ephemeral, background 세 가지 형태로 생성
+  * Default : 기본 통신으로 디스크 기반 캐싱을 지원
+  * Ephemeral : 쿠키나 캐시를 저장하지 않는 정책을 가져갈 때 사용
+  * Background : 앱이 백그라운드에 있는 상황에서 컨텐츠 다운로드, 업로드를 할 때 사용
