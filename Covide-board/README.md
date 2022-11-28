@@ -12,6 +12,7 @@
   * 코로나바이러스-19에 대한 무료 API 서비스를 제공
 
 * Alamofire
+  * https://github.com/Alamofire/Alamofire
   * Swift 기반의 HTTP 네트워킹 라이브러리
   * URLSession에 기반한 라이브러리, 네트워킹 작업 단순화
   * 연결가능한 request, response method 제공
