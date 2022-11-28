@@ -6,7 +6,7 @@
 * "취소" 버튼 클릭 시 타이머 종료
 
 <img src="https://user-images.githubusercontent.com/55949986/204124762-c0eb90f2-53e3-4c27-9da8-d9d8347524f2.gif" width="300" height="550"/>
-* 카운트 다운이 완료되면 알람으로 알려줌
+* 카운트 다운이 완료되면 알람으로 알려줌<br>
 ---------------------------------------
 
 * DispatchSourceTimer
