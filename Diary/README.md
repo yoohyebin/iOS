@@ -16,7 +16,7 @@
 * UITabBarController
   * 다중 선택 인터페이스를 관리하는 컨테이너 뷰 컨트롤러
   * 선택에 따라 어떤 자식 뷰 컨트롤러를 보여줄 것인지 결정
-  <img src="https://user-images.githubusercontent.com/55949986/204254608-393be101-80f6-452e-97ef-285718f0c8bd.png" width="300" height="200"/> <br>
+ <br> <img src="https://user-images.githubusercontent.com/55949986/204254608-393be101-80f6-452e-97ef-285718f0c8bd.png" width="300" height="200"/> 
 
 
 * UICollectionView
