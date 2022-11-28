@@ -18,6 +18,7 @@
   * 선택에 따라 어떤 자식 뷰 컨트롤러를 보여줄 것인지 결정
   <img src="https://user-images.githubusercontent.com/55949986/204254608-393be101-80f6-452e-97ef-285718f0c8bd.png" width="300" height="200"/> <br>
 
+
 * UICollectionView
   * 데이터 항목의 정렬된 컬렉션을 관리하고 커스텀한 레이아웃을 사용해 표시하는 객체
 * UICollectionViewFlowLayout
@@ -31,4 +32,10 @@
 * UICollectionViewDelegate
   * 콘텐츠의 표현, 사용자와의 상호작용과 관련된 것들을 관리하는 객체
   
+  
 * NotificationCenter
+  * notification이 오면 observer pattern을 통해서 등록된 옵저버들에게 notification을 전달하기 위해 사용하는 클래스
+  * notification을 발송하면 NotificationCenter에서 메세지를 전달한 observer를 처리할 때까지 대기
+* Notification
+  * NotificationCenter를 통해 정보를 저장하기 위한 구조체
+  * 옵저버들에게 전달되는 구조체로 정보가 담겨있고, 해당 알림을 등록한 옵저버에게만 전달
