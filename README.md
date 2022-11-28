@@ -14,7 +14,7 @@
 #### Intermediate
 - [로그인 애플리케이션](LoginApp)
 - [신용카드 추천 애플리케이션](CreditCardList)
-- [실시간 공지 애플리케이션](NoticeApp)
+- [실시간 공지사항 팝업 애플리케이션](NoticeApp)
 - [물마시기 알람 애플리케이션](DrinkNotice)
 - [영화 추천 애플리케이션](NetflixStyleApp)
 - [맥주 추천 애플리케이션](Brewery)
