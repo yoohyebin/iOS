@@ -40,6 +40,21 @@
 * URLSessionConfiguration
   * URLSession을 생성하기 위해서 필요한 요소
   * Configuration을 생성할 때는 URLSession 정책에 따라서 default, ephemeral, background 세 가지 형태로 생성
-   * Default : 기본 통신으로 디스크 기반 캐싱을 지원
-   * Ephemeral : 쿠키나 캐시를 저장하지 않는 정책을 가져갈 때 사용
-   * Background : 앱이 백그라운드에 있는 상황에서 컨텐츠 다운로드, 업로드를 할 때 사용
+    * Default : 기본 통신으로 디스크 기반 캐싱을 지원
+    * Ephemeral : 쿠키나 캐시를 저장하지 않는 정책을 가져갈 때 사용
+    * Background : 앱이 백그라운드에 있는 상황에서 컨텐츠 다운로드, 업로드를 할 때 사용
+    
+* URLSession Delegate
+  * 네트워크 중간 과정을 확인할 수 있음 
+  * 필요에 따라서 사용
+
+* URLSession Task
+  * DataTask
+    * Data를 받는 작업, Response 데이터를 메모리 상에서 처리
+    * 백그라운드 세션에 대한 지원이 되지 않음
+    * URL 요청을 실시하고 완료 시 핸들러를 호출하는 Task 형식
+    * Task가 실행된 후 핸들러가 실행되기 때문에 탈출 Closure 형태로 받아야 함
+  * UploadTask
+    * 파일을 업로드할 때 사용 
+  * DownloadTask
+      * 파일을 다운로드 받아 디스크에 쓸 때 사용
