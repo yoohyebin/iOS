@@ -36,10 +36,8 @@
 * FlowLayout
   * UICollectionViewFlowLayout, UICollectionViewDelegateFlowLayout protocol
   * Grid, line-based layout 구현
-  * 레이아웃 정보를 동적으로 Custom
-
+  * 레이아웃 정보를 동적으로 Custom  
   
-    
     
 * SnapKit
    * https://github.com/SnapKit/SnapKit
