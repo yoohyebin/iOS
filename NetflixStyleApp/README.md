@@ -6,7 +6,7 @@
 ---------------------------------------
 
 #### UICollectionView
-<img src="https://user-images.githubusercontent.com/55949986/204504644-c3804287-b88c-4fed-93c7-af99fc257e89.png" width="400" height="550"/>
+<img src="https://user-images.githubusercontent.com/55949986/204504644-c3804287-b88c-4fed-93c7-af99fc257e89.png" width="600" height="550"/>
 
 * Top-level Containment and Management
   * UICollectionView, UICollectionViewController
