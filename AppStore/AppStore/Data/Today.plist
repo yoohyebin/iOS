@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>물 마시기 운동</string>
+		<key>subTitle</key>
+		<string>하루에 2리터, 도전해보세요.</string>
+		<key>description</key>
+		<string>가장 간단하게 건강을 챙기는 방법 !</string>
+		<key>imageURL</key>
+		<string>https://cdn.pixabay.com/photo/2020/10/12/22/15/glass-5650335_1280.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Weather</string>
+		<key>subTitle</key>
+		<string>우산 잊지 말아요.</string>
+		<key>description</key>
+		<string>유난히 늦은 올해 장마. 즐기진 못해도 흠뻑 적진 말자구요.</string>
+		<key>imageURL</key>
+		<string>https://cdn.pixabay.com/photo/2021/05/10/14/48/rain-6243559_1280.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Share Photo</string>
+		<key>subTitle</key>
+		<string>친구들과 사진을 공유해주세요.</string>
+		<key>description</key>
+		<string>소중한 추억들이야 말로 잊지말고 공유해요.</string>
+		<key>imageURL</key>
+		<string>https://cdn.pixabay.com/photo/2020/03/11/15/16/friends-4922436_1280.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>FoodLog</string>
+		<key>subTitle</key>
+		<string>맛있는 식사의 기록을 남겨요.</string>
+		<key>description</key>
+		<string>음식들과 함께한 순간이 잊혀지긴 아쉬우니까, 남겨보아요.</string>
+		<key>imageURL</key>
+		<string>https://cdn.pixabay.com/photo/2021/06/29/13/39/fish-6374185_1280.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>달</string>
+		<key>subTitle</key>
+		<string>지금 달은 어떤 모양을 하고 있을까요?</string>
+		<key>description</key>
+		<string>달의 모양을 언제든지 볼 수 있답니다.</string>
+		<key>imageURL</key>
+		<string>https://cdn.pixabay.com/photo/2021/06/26/06/52/moon-6365467_1280.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>천사대전</string>
+		<key>subTitle</key>
+		<string>천사들의 이야기</string>
+		<key>description</key>
+		<string>하얀 날개 속엔 어떤 이야기들이 얽혀있을까요?</string>
+		<key>imageURL</key>
+		<string>https://cdn.pixabay.com/photo/2021/06/27/07/17/fantasy-6367918_1280.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>보드게임천국</string>
+		<key>subTitle</key>
+		<string>집에만 있기 힘든 지금,</string>
+		<key>description</key>
+		<string>간단하면서 재밌는 다양한 게임들을 만나보아요.</string>
+		<key>imageURL</key>
+		<string>https://cdn.pixabay.com/photo/2021/07/01/19/53/jenga-6380191_1280.jpg</string>
+	</dict>
+</array>
+</plist>

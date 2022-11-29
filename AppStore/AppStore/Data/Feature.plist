@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>type</key>
+		<string>new</string>
+		<key>appName</key>
+		<string>Game Friend</string>
+		<key>description</key>
+		<string>친구와 재밌는 게임을 !</string>
+		<key>imageURL</key>
+		<string>https://cdn.pixabay.com/photo/2015/01/08/18/24/children-593313_1280.jpg</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>new</string>
+		<key>appName</key>
+		<string>Bread World</string>
+		<key>description</key>
+		<string>세상의 모든 빵 레시피를 알아보세요</string>
+		<key>imageURL</key>
+		<string>https://cdn.pixabay.com/photo/2021/06/30/19/21/bread-6377524_1280.jpg</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>new</string>
+		<key>appName</key>
+		<string>레시피천국</string>
+		<key>description</key>
+		<string>오늘 저녁 메뉴, 고민하지 않으셔도 돼요</string>
+		<key>imageURL</key>
+		<string>https://cdn.pixabay.com/photo/2021/06/21/15/03/salmon-6353898_1280.jpg</string>
+	</dict>
+</array>
+</plist>

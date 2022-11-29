@@ -1,0 +1,6 @@
+framework module Pods_SearchDaumBlog_MVVM_ {
+  umbrella header "Pods-SearchDaumBlog(MVVM)-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>민족의배달</string>
+		<key>description</key>
+		<string>오늘은 치킨 어때요?</string>
+		<key>isInPurchaseApp</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>오이마켓</string>
+		<key>description</key>
+		<string>집에서 잠자고 있는 물건들을 꺼내볼까요?</string>
+		<key>isInPurchaseApp</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Stagram</string>
+		<key>description</key>
+		<string>사진을 공유해봅시다</string>
+		<key>isInPurchaseApp</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>재그지그</string>
+		<key>description</key>
+		<string>내일 입을 옷 더이상 걱정하지 말아요.</string>
+		<key>isInPurchaseApp</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>LinkedOut</string>
+		<key>description</key>
+		<string>캐리어를 꿈꿔요.</string>
+		<key>isInPurchaseApp</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>BaseBook</string>
+		<key>description</key>
+		<string>고등학교 동창들의 이야기 궁금하지 않나요?</string>
+		<key>isInPurchaseApp</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>ChocoTalk</string>
+		<key>description</key>
+		<string>커뮤니케이션 필수 앱.</string>
+		<key>isInPurchaseApp</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Slow Campus</string>
+		<key>description</key>
+		<string>누구보다 멋진 개발자가 되어보아요.</string>
+		<key>isInPurchaseApp</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>FastCampus</string>
+		<key>description</key>
+		<string>멋진 개발자가 되어보아요.</string>
+		<key>isInPurchaseApp</key>
+		<true/>
+	</dict>
+</array>
+</plist>

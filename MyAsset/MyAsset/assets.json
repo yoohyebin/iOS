@@ -1,0 +1,159 @@
+[
+    {
+        "id": 0,
+        "type": "creditScore",
+        "data": [
+            {
+                "id": 0,
+                "title": "신용점수",
+                "amount": "999점"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "type": "bankAccount",
+        "data": [
+            {
+                "id": 0,
+                "title": "신한은행",
+                "amount": "42,000원"
+            },
+            {
+                "id": 1,
+                "title": "국민은행",
+                "amount": "9,263,000원"
+            },
+            {
+                "id": 2,
+                "title": "카카오뱅크",
+                "amount": "2,255,900원"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "investment",
+        "data": [
+            {
+                "id": 0,
+                "title": "카카오페이",
+                "amount": "5,003,370원"
+            },
+            {
+                "id": 1,
+                "title": "한국투자",
+                "amount": "5,675,236원"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "type": "loan",
+        "data": [
+            {
+                "id": 0,
+                "title": "카카오뱅크",
+                "amount": "-67,333,000원"
+            },
+            {
+                "id": 1,
+                "title": "하나은행",
+                "amount": "-4,000,000,000원"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "type": "insurance",
+        "data": [
+            {
+                "id": 0,
+                "title": "삼성화재",
+                "amount": "월 20,000원"
+            },
+            {
+                "id": 1,
+                "title": "한화손해보험",
+                "amount": "월 77,400원"
+            },
+            {
+                "id": 2,
+                "title": "메리츠화재보험",
+                "amount": "월 10,000원"
+            },
+            {
+                "id": 3,
+                "title": "롯데손해보험",
+                "amount": "월 84,900원"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "type": "creditCard",
+        "data": [
+            {
+                "id": 0,
+                "title": "현대카드",
+                "amount": "0원",
+                "creditCardAmounts": [
+                    {
+                        "previousMonth": "10,000원"
+                    },
+                    {
+                        "currentMonth": "45,000원"
+                        
+                    },
+                    {
+                        "nextMonth": "100,400원"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "title": "우리카드",
+                "amount": "9,000원",
+                "creditCardAmounts": [
+                    {
+                        "previousMonth": "40,000원"
+                    },
+                    {
+                        "currentMonth": "95,000원"
+                        
+                    },
+                    {
+                        "nextMonth": "2,150,400원"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "type": "cash",
+        "data": [
+            {
+                "id": 0,
+                "title": "이번 달 사용금액",
+                "amount": "472,890원"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "type": "realEstate",
+        "data": [
+            {
+                "id": 0,
+                "title": "한강현대아파트",
+                "amount": "16억 9천만원"
+            },
+            {
+                "id": 1,
+                "title": "여의도오피스텔",
+                "amount": "2억 9천만원"
+            }
+        ]
+    }
+]
