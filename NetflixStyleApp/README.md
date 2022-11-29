@@ -6,21 +6,21 @@
 ---------------------------------------
 
 #### UICollectionView
-<img src="https://user-images.githubusercontent.com/55949986/204504644-c3804287-b88c-4fed-93c7-af99fc257e89.png" width="300" height="550"/>
+<img src="https://user-images.githubusercontent.com/55949986/204504644-c3804287-b88c-4fed-93c7-af99fc257e89.png" width="400" height="550"/>
 
 * Top-level Containment and Management
- * UICollectionView, UICollectionViewController
- * 시각적인 요소 정의
- * UIScrollView 상속
- * Layout 정보 기반 데이터 표시
- 
-* Content Mamagement
- * UICollectionViewDataSource protocol
-   * 필수 요소
-   * Content 관리 및 Content 표시에 필요한 View 생성
- * UICollectionViewDelegate protocol
-   * 선택 요소
-   * 특정 상황에서 View 동작 custom
+  * UICollectionView, UICollectionViewController
+  * 시각적인 요소 정의
+  * UIScrollView 상속
+  * Layout 정보 기반 데이터 표시
+
+ * Content Mamagement
+  * UICollectionViewDataSource protocol
+    * 필수 요소
+    * Content 관리 및 Content 표시에 필요한 View 생성
+  * UICollectionViewDelegate protocol
+    * 선택 요소
+    * 특정 상황에서 View 동작 custom
 
 * Presentation
   * UICollectionViewReusableView, UICollectionViewCell
