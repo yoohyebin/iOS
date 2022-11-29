@@ -7,7 +7,7 @@
 ---------------------------------------
 
 * OSI 모델 (Open Systems Interconnection)
-  * <img src="https://user-images.githubusercontent.com/55949986/204507563-b3ea9a9e-a747-43d3-a63a-cf42046cc526.png" width="400" height="550"/>
+  * <img src="https://user-images.githubusercontent.com/55949986/204507563-b3ea9a9e-a747-43d3-a63a-cf42046cc526.png" width="300" height="400"/>
   * 다양한 통신 시스템이 표준 프로토콜을 사용하여 통신할 수 있도록 국제 표준화 기구가 만든 개념 모델
 
 * URL (Uniform Resource Locator)
@@ -58,4 +58,4 @@
       * 파일을 다운로드 받아 디스크에 쓸 때 사용
 
 * URLSession Life Cycle
-<img src="https://user-images.githubusercontent.com/55949986/204509923-7f014d38-a71e-4170-90dd-dfc957c06255.png" width="600" height="550"/>
+<img src="https://user-images.githubusercontent.com/55949986/204509923-7f014d38-a71e-4170-90dd-dfc957c06255.png" width="600" height="300"/>
