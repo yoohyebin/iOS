@@ -38,8 +38,8 @@
   * Grid, line-based layout 구현
   * 레이아웃 정보를 동적으로 Custom
 
-<p>
-<p>
+  
+  
 * SnapKit
    * https://github.com/SnapKit/SnapKit
   * 짧은 코드로 autolayout을 표현할 수 있도록 도와주는 프레임워크
