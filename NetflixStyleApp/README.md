@@ -23,21 +23,21 @@
    * 특정 상황에서 View 동작 custom
 
 * Presentation
- * UICollectionViewReusableView, UICollectionViewCell
- * Header, Footer...
- * 재사용 가능
+  * UICollectionViewReusableView, UICollectionViewCell
+  * Header, Footer...
+  * 재사용 가능
 
 * Layout
- * UICollectionViewLayout, UICollectionViewLayoutAttributes, UICollectionViewUdateItem
- * 각 항목 배치 등 시각적 스타일 담당
- * View를 직접 소유하지 않는대신 Attributes 생성
- * 데이터 항목 수정시 UpdateItem 인스턴스 수신
+  * UICollectionViewLayout, UICollectionViewLayoutAttributes, UICollectionViewUdateItem
+  * 각 항목 배치 등 시각적 스타일 담당
+  * View를 직접 소유하지 않는대신 Attributes 생성
+  * 데이터 항목 수정시 UpdateItem 인스턴스 수신
 
 * FlowLayout
- * UICollectionViewFlowLayout, UICollectionViewDelegateFlowLayout protocol
- * Grid, line-based layout 구현
- * 레이아웃 정보를 동적으로 Custom
+  * UICollectionViewFlowLayout, UICollectionViewDelegateFlowLayout protocol
+  * Grid, line-based layout 구현
+  * 레이아웃 정보를 동적으로 Custom
 
 * SnapKit
-  * https://github.com/SnapKit/SnapKit
+   \* https://github.com/SnapKit/SnapKit
   * 짧은 코드로 autolayout을 표현할 수 있도록 도와주는 프레임워크
