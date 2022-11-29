@@ -2,7 +2,8 @@
 ===========
 <img src="https://user-images.githubusercontent.com/55949986/204124769-d0028d94-31f4-4d80-a3c5-dfb63a0dc455.gif" width="300" height="550"/>
 
-* 
+* 사용자를 반으로 나누어 무작위로 A, B안 알림이 보이게 함
+* 업데이트 없이 수정, 숨김 가능한 공지사항 팝업
 ---------------------------------------
 
 * Remote Config
