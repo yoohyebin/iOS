@@ -22,7 +22,7 @@
 #### Upper Intermediate
 - [자산 관리 애플리케이션](MyAsset)
 - [앱 스토어 애플리케이션](AppStore)
-- [지하철 도착 정보 애플리케이션](GithubSample)
+- [지하철 도착 정보 애플리케이션](SubwayStation)
 - [인스타그램 스타일 애플리케이션](InstagramSample)
 - [GitHub 애플리케이션](GithubSample)
 - [다음 검색 애플리케이션](SearchDaumBlog)
