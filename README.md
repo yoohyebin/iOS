@@ -26,6 +26,6 @@
 - [인스타그램 스타일 애플리케이션](InstagramSample)
 - [GitHub 애플리케이션](GithubSample)
 - [다음 검색 애플리케이션](SearchDaumBlog)
-- [중고거래 작성 애플리케이션](UploadUsedGoods)
+- [중고거래 포스트 작성 애플리케이션](UploadUsedGoods)
 
 #### Advanced
