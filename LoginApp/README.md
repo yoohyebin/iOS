@@ -1,11 +1,14 @@
 로그인 애플리케이션 만들기
 ===========
-<img src="https://user-images.githubusercontent.com/55949986/204124769-d0028d94-31f4-4d80-a3c5-dfb63a0dc455.gif" width="300" height="550"/>
+<img src="https://user-images.githubusercontent.com/55949986/204523196-cf4711d4-2cdb-4401-ae22-7ab5231cb1e5.gif" width="300" height="550"/>
 
 * "이메일/비밀번호로 로그인" 버튼 클릭시 이메일 주소와 비밀번호를 입력해 로그인
+  * "프로필 변경" 버튼 클릭 시 미리 지정해둔 닉네임으로 변경
+  * 이메일로 로그인시 "비밀번호 변경" 버튼 표시
+  <img src="https://user-images.githubusercontent.com/55949986/204523185-9cb433fe-64e8-43e4-9d49-151dd5e70a89.gif" width="300" height="550"/>
   * 잘못된 비밀번호 입력, 짧은 비밀 번호 입력 등 오류 발생 시 에러 메시지 표시
-  * 로그인 성공 시 비밀번호 변경 가능
   
+<img src="https://user-images.githubusercontent.com/55949986/204523945-c0407bed-7043-4e76-8736-f520083b4fa9.gif" width="300" height="550"/>
 * "구글로 로그인" 버튼 클릭시 구글에 가입된 계정으로 로그인 가능
 * 애플로 로그인은 아직 구현 못함
 
