@@ -58,4 +58,4 @@
       * 파일을 다운로드 받아 디스크에 쓸 때 사용
 
 * URLSession Life Cycle
-<img src="https://user-images.githubusercontent.com/55949986/204509923-7f014d38-a71e-4170-90dd-dfc957c06255.png" width="500" height="200"/>
+<img src="https://user-images.githubusercontent.com/55949986/204509923-7f014d38-a71e-4170-90dd-dfc957c06255.png" width="500" height="100"/>
