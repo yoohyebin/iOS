@@ -1,6 +1,6 @@
 실시간 공지사항 팝업 애플리케이션 만들기
 ===========
-<img src="https://user-images.githubusercontent.com/55949986/205589179-80d0363b-4336-488c-ab88-b5bfaacd4f72.png" width="300" height="800"/>
+<img src="https://user-images.githubusercontent.com/55949986/205589179-80d0363b-4336-488c-ab88-b5bfaacd4f72.png" width="300" height="1100"/>
 
 * 사용자를 반으로 나누어 무작위로 A, B안 알림이 보이게 함
 
