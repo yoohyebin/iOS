@@ -1,6 +1,6 @@
 GitHub 애플리케이션 만들기
 ===========
-<img src="https://user-images.githubusercontent.com/55949986/204124769-d0028d94-31f4-4d80-a3c5-dfb63a0dc455.gif" width="300" height="550"/>
+<img src="https://user-images.githubusercontent.com/55949986/205565862-63b5bb50-a0c9-4753-906e-79a1a791baec.gif" width="300" height="550"/>
 
 * UISearchController를 사용하여 검색하고자 하는 지하철 역을 입력 받음
 * UITabelView를 사용하여 검색한 지하철 역에대한 정보를 서버로부터 받아 표시
