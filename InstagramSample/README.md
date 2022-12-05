@@ -1,6 +1,6 @@
 인스타그램 스타일 애플리케이션 만들기
 ===========
-<img src="https://user-images.githubusercontent.com/55949986/204124769-d0028d94-31f4-4d80-a3c5-dfb63a0dc455.gif" width="300" height="550"/>
+<img src="https://user-images.githubusercontent.com/55949986/205591454-2916352c-c2b4-4bc2-a101-2960d5edec86.gif" width="300" height="550"/>
 
 * UITabBarController를 사용하여 메인 피드와 프로필 화면 구성
 * 메인 피드
