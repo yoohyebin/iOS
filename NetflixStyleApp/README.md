@@ -1,6 +1,6 @@
 영화 추천 애플리케이션 만들기
 ===========
-<img src="https://user-images.githubusercontent.com/55949986/204124769-d0028d94-31f4-4d80-a3c5-dfb63a0dc455.gif" width="300" height="550"/>
+<img src="https://user-images.githubusercontent.com/55949986/205567844-e96b3a15-f457-4d2b-aabf-abb60d3e3585.gif" width="300" height="550"/>
 
 * UICollectionView를 이용하여 netflix style의 영화 추천앱 레이아웃 구성
 ---------------------------------------
