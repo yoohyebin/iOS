@@ -1,6 +1,6 @@
 맥주 추천 애플리케이션 만들기
 ===========
-<img src="https://user-images.githubusercontent.com/55949986/204124769-d0028d94-31f4-4d80-a3c5-dfb63a0dc455.gif" width="300" height="550"/>
+<img src="https://user-images.githubusercontent.com/55949986/205565548-9a25235e-01b7-446d-a0e9-30e84bc69d9a.gif" width="300" height="550"/>
 
 * PunkAPI를 이용해 데이터를 가져와 맥주 리스트를 보여줌
 * 맥주를 클릭하면 해당 맥주의 상세 정보를 보여줌
