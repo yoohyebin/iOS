@@ -1,6 +1,6 @@
 신용카드 추천 애플리케이션 만들기
 ===========
-<img src="https://user-images.githubusercontent.com/55949986/204124769-d0028d94-31f4-4d80-a3c5-dfb63a0dc455.gif" width="300" height="550"/>
+<img src="https://user-images.githubusercontent.com/55949986/205564953-30d230de-6bfd-4b87-80dc-281634ea4602.gif" width="300" height="550"/>
 
 * 신용카드 리스트를 순위대로 화면에 표시
 * 카드 클릭 시 해당 카드의 혜택에 대한 상세 정보 표시
