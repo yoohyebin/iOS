@@ -12,7 +12,7 @@
   * View: 데이터들을 화면에 보여주는 역할
   *  Model: 앱의 상태 지속을 위해 데이터를 읽고 쓰는 역할
 
-<img src="https://user-images.githubusercontent.com/55949986/205870310-39027252-cdba-461e-921b-ee7b0c42cbf2.png" width="600" height="200"/>
+<img src="https://user-images.githubusercontent.com/55949986/205870310-39027252-cdba-461e-921b-ee7b0c42cbf2.png" width="650" height="200"/>
 
 
 * MVC 패턴
@@ -26,4 +26,4 @@
   * 비지니스 로직으로부터 View의 생명주기를 분리해, ViewController와 View 모두에 대해 명확하게 테스트 가능
   * ViewModel 은 UI 단에서 완전히 분리되어있고, 필요시에 재사용이 가능
   
-<img src="https://user-images.githubusercontent.com/55949986/205870853-f855788e-2c30-4fef-9063-a5bb86d2fd9d.png" width="600" height="200"/>
+<img src="https://user-images.githubusercontent.com/55949986/205870853-f855788e-2c30-4fef-9063-a5bb86d2fd9d.png" width="700" height="200"/>
