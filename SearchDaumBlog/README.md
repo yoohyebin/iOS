@@ -2,8 +2,15 @@
 ===========
 <img src="https://user-images.githubusercontent.com/55949986/205566062-04802b86-fcc8-462f-9b6c-91bb96531c42.gif" width="300" height="550"/>
 
-* 
+* UISearchBar를 사용하여 검색할 내용을 입력받음
+* "검색" 버튼 클릭 시 해당 내용을 다음 블로그에서 검색
+* 우측 상단 버튼 클릭시 정렬방법을 선택할 수 있음 (Title, Datetime)
+
+<br/>
+
 * Kakao API
+ * https://developers.kakao.com/
+ * Kakao API를 사용하여 다음 블로그 검색 내역을 
 ---------------------------------------
 
 ### RXSwift 
