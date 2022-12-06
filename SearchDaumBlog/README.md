@@ -9,8 +9,8 @@
 <br/>
 
 * Kakao API
- * https://developers.kakao.com/
- * Kakao API를 사용하여 다음 블로그 검색 내역을 
+  * https://developers.kakao.com/
+  * Kakao API를 사용하여 다음 블로그 검색 내역을 
 ---------------------------------------
 
 ### RXSwift 
