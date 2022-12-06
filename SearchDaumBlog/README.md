@@ -66,6 +66,15 @@
   * ObserverType을 따름
   * 값을 주입시킬 수는 있지만, 값을 관찰할 수 없음
   * error를 값으로 받을 수 없음, error가 주입되면 fatalError발생
-  * 
+  * Publisher에서 Subscriber로 향하는 단방향 binding
 
-     
+* Traits
+  * UI작업시 코드를 쉽고 직관적으로 작성해 사용할 수 있도록 도와주는 특별한 Observable클래스 모음
+  * error를 방출하지 않음
+  * 메인 스케줄러에서 obsere, subscribe됨
+  * signal을 제외한 나머지들은 자원을 공유함
+  * Trait 종류
+     * ControlProperty : 컨트롤에 data를 binding하기 위해 사용(rx namespace 사용)
+     * ControlEvent : 컨트롤의 event를 수신하기 위해 사용
+     * Driver : error를 방출하지 않고 메인스레드에서 처리됨
+     * Signal : Driver와 유사하지만 자원을 공유하지않음 (Signal은 event모델링에 유용, Driver는 state모델링에 더 적합
