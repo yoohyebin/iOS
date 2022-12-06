@@ -49,8 +49,6 @@
       * 값을 저장해 가지고 있을 수 있고, 그 값을 통해 이벤트를 변형할 수 있음
       * 변형하는 이벤트의 타입은 원본 이벤트 타입과 같아야 함
       * 초기값을 지정해야 함
-<br/>
-<br/>
 
 * RXcocoa
     * Cocoa Framework를 RX와 합친 기능을 제공하는 라이브러리
@@ -78,3 +76,15 @@
      * ControlEvent : 컨트롤의 event를 수신하기 위해 사용
      * Driver : error를 방출하지 않고 메인스레드에서 처리됨
      * Signal : Driver와 유사하지만 자원을 공유하지않음 (Signal은 event모델링에 유용, Driver는 state모델링에 더 적합
+     
+* RxSwift 에러 관리
+    * Catch: 기본값(defaultValue)로 error를 복구
+      * 에러 없이 sequence를 지속하여 onError알림에서 복구
+      * 소스 observable에서 onError알림이 오면, 관찰자에게 전달하지 않고 이를 가로채서 item으로 대체하여 결과 observable이 정상적으로 종료, 혹은 종료되지 않도록 함
+    * CatchAndReturn: error의 종류에 관계없이 "error"를 next 이벤트로 반환합니다.
+      * element: 에러가 발생한 경우 observable sequence의 마지막 item
+      * 만약 구독 전에 catchAndReturn을 해주지 않았다면 "Unhandled error happened: error1" 라고 출력
+    * Retry: 제한적, 혹은 무제한적으로 재시도
+      * 만약 소스 observable에서 error가 발생한다면 오류 없이 완료(종료)되기를 바라며 재구독
+      * onError 알림이 오면, 관찰자에게 이를 전달하기보다 해당 sequence를 오류 없이 종료할 수 있도록 소스 observable을 재구독
+      * sequence가 error로 인해 종료되더라도 관찰자에게 항상 onNext를 전달하기때문에 중복 방출이 발생 가능
