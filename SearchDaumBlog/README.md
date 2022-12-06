@@ -3,6 +3,7 @@
 <img src="https://user-images.githubusercontent.com/55949986/205566062-04802b86-fcc8-462f-9b6c-91bb96531c42.gif" width="300" height="550"/>
 
 * 
+* Kakao API
 ---------------------------------------
 
 ### RXSwift 
@@ -48,6 +49,23 @@
       * 값을 저장해 가지고 있을 수 있고, 그 값을 통해 이벤트를 변형할 수 있음
       * 변형하는 이벤트의 타입은 원본 이벤트 타입과 같아야 함
       * 초기값을 지정해야 함
-      
+<br/>
+<br/>
+
 * RXcocoa
-* Kakao API
+    * Cocoa Framework를 RX와 합친 기능을 제공하는 라이브러리
+      * Cocoa Framework: apple 애플리케이션을 제작하기 위한 도구들을 모아놓은 framework
+    * UI Control과 다른 SDK 클래스를 wrapping한 커스텀 extension set
+    * ObserverType : 값을 주입 시킬 수 있는 타입
+    * ObservableType : 값을 관찬할 수 있는 타입
+
+* ControlProperty
+  * subject와 같이 프로퍼티에 새 값을 주입시킬 수 있고(ObserverType), 값의 변화도 관찰할 수 있는 타입
+  
+* Binder
+  * ObserverType을 따름
+  * 값을 주입시킬 수는 있지만, 값을 관찰할 수 없음
+  * error를 값으로 받을 수 없음, error가 주입되면 fatalError발생
+  * 
+
+     
