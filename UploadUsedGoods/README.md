@@ -2,7 +2,9 @@
 ===========
 <img src="https://user-images.githubusercontent.com/55949986/205566056-5d4a26ee-0ceb-4877-a2a9-beff78ed8ff9.gif" width="300" height="550"/>
 
-* .
+* 글 제목과, 카테고리, 가격, 글 내용을 작성할 수 있음
+* 가격은 선태사항으로 0을 입력하면 "무료나눔" 으로 출력
+* 글 제목 또는 내용을 입력하지 않고 제출을 클릭하면 실패 alert 발생
 ---------------------------------------
 * MVC 패턴
   * Model + View + Controller
