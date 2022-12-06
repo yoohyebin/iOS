@@ -37,3 +37,34 @@ GitHub 애플리케이션 만들기
    * Observable은 어떤 구성요소를 가지는 next 이벤트를 계속해서 방출할 수 있음 
    * Observable은 error 이벤트를 방출하여 완전 종료될 수 있음
    * Observable은 complete 이벤트를 방출하여 완전 종료 될 수 있다.
+ 
+* Observables 생성
+   * just: 오직 하나의 Element를 포함하는 Observable Sequence를 생성
+   * of: 가변적인 element를 포함하는 Observable Sequence를 생성
+   * from: array의 요소들로 Observable Sequence 생성
+   * empty: 요소를 가지지 않는 Observable
+   * never: empty와는 반대, 이벤트를 방출 조차 하지 않음
+   * range: start 부터 count크기 만큼의 값을 갖는 Observable을 생성
+   * repeatElement: 지정된 element를 계속 Emit
+   * interval: 지정된 시간에 한번씩 event를 emit
+   * create: Observer에 직접 Event를 방출
+
+* Trait
+   * 일반적인 Observable보다 좁은 범위의 Observable
+   * 옵션으로 사용, 코드 가독성 상승
+   * single
+      * Obvservable의 한 형태
+      * 항상 한 가지 값 또는 오류 알림 둘 중 하나만 배출
+      * .success(value)나 .error 이벤트를 방출
+    * Completable 
+      * .completed나 .error를 방출
+      * 값을 방출하지 않음
+    * Maybe
+      * Single 과 Completable을 섞어 놓은 형태
+      * .success(value) , .completed , .error 를 방출
+      * 프로세스가 성공, 실패 여부와 더불어 출력된 값도 방출 
+      
+* Observables 생성
+   * just: 오직 하나의 Element를 포함하는 Observable Sequence를 생성
+   * of: 가변적인 element를 포함하는 Observable Sequence를 생성
+   
