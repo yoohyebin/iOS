@@ -64,7 +64,18 @@ GitHub 애플리케이션 만들기
       * .success(value) , .completed , .error 를 방출
       * 프로세스가 성공, 실패 여부와 더불어 출력된 값도 방출 
       
-* Observables 생성
-   * just: 오직 하나의 Element를 포함하는 Observable Sequence를 생성
-   * of: 가변적인 element를 포함하는 Observable Sequence를 생성
-   
+* Subject
+   * Observable이자 Observer인것
+   * PublishSubject
+      * .completed, .error이벤트가 발생할때까지 이벤트를 방출
+      * 빈 상태로 시작하여 새로운 값만을 subscriber에 이벤트를 방출
+   * BehaviorSubject
+      * PublicshSubject와 유사하지만, 초기값을 가지며 항상 직전의 값부터 구독
+      * 하나의 초기값을 가진 상태로 시작하여, 새로운 subscriber에게 초기값 또는 최신값을 방출
+   * ReplaySubject
+      * 생성시 선택한 특정 크기만큼 일시적으로 캐시하거나 버퍼를 저장해서 최신 요소를 모두 방출
+      * 버퍼를 두고 초기화하며, 버퍼 사이즈 만큼의 값들을 유지하면서 새로운 subscriber에게 방출
+
+* Disposing and Terninating
+   * dispose(): 구독을 취소하여 Observable을 수동으로 종료
+   * DisposeBag(): Disposable 들을 모아놨다가 한번에 처분하는 방식
