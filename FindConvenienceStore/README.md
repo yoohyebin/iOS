@@ -8,6 +8,7 @@
 * 하단에는 편의점의 목록을 보여줌
 * 주변에 편의점이 없거나 오류 발생 시, alert으로 오류 표시
 ---------------------------------------
+
 * CLLocationManager
   * Model + View + Controller
   * 대부분의 앱에서 쓰이는 간단한 패턴
@@ -16,9 +17,6 @@
   * View: 데이터들을 화면에 보여주는 역할
   *  Model: 앱의 상태 지속을 위해 데이터를 읽고 쓰는 역할
 
-<img src="https://user-images.githubusercontent.com/55949986/205870310-39027252-cdba-461e-921b-ee7b0c42cbf2.png" width="650" height="200"/>
-
-
 * KakaoMapAPI
  * Guid: https://apis.map.kakao.com/ios/guide/
- * : https://developers.kakao.com/docs/latest/ko/local/common
+ * 로컬: https://developers.kakao.com/docs/latest/ko/local/common
