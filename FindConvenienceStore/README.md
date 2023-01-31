@@ -18,5 +18,5 @@
   *  Model: 앱의 상태 지속을 위해 데이터를 읽고 쓰는 역할
 
 * KakaoMapAPI
- * Guid: https://apis.map.kakao.com/ios/guide/
- * 로컬: https://developers.kakao.com/docs/latest/ko/local/common
+  * Guid: https://apis.map.kakao.com/ios/guide/
+  * 로컬: https://developers.kakao.com/docs/latest/ko/local/common
