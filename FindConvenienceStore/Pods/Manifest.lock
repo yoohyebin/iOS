@@ -1,0 +1,48 @@
+PODS:
+  - Nimble (11.2.1)
+  - RxBlocking (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - RxTest (6.5.0):
+    - RxSwift (= 6.5.0)
+  - SnapKit (5.6.0)
+  - Stubber (1.5.3)
+
+DEPENDENCIES:
+  - Nimble
+  - RxBlocking
+  - RxCocoa
+  - RxSwift
+  - RxTest
+  - SnapKit
+  - Stubber
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - RxBlocking
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxTest
+    - SnapKit
+    - Stubber
+
+SPEC CHECKSUMS:
+  Nimble: 516ac503a0fafaa8e41dbb4a70a61be421fa893a
+  RxBlocking: 04b5fd28bb5ea49f7d64b80db8bbfe50d9cc1c7d
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  RxTest: eb2d23adefc5a5ebf5779c7792fa3edfe6ebcc17
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  Stubber: 3ea4080870feeaf5b1637314a92245eef9b8c8e7
+
+PODFILE CHECKSUM: dc9a750cc86346dd525236eb9ae3f78fe4de1375
+
+COCOAPODS: 1.11.3

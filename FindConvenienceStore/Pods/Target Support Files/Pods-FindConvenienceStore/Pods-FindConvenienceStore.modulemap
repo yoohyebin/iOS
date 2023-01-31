@@ -1,0 +1,6 @@
+framework module Pods_FindConvenienceStore {
+  umbrella header "Pods-FindConvenienceStore-umbrella.h"
+
+  export *
+  module * { export * }
+}
