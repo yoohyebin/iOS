@@ -19,4 +19,6 @@
 
 * KakaoMapAPI
   * Guid: https://apis.map.kakao.com/ios/guide/
-  * 로컬: https://developers.kakao.com/docs/latest/ko/local/common
+  * 로컬: https://developers.kakao.com/docs/latest/ko/local/dev-guide#search-by-keyword
+  * 로컬 API의 여러 기능 중, 카테고리 검색 기능 사용
+  * 
