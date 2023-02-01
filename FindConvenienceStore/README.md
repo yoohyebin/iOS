@@ -10,15 +10,17 @@
 ---------------------------------------
 
 * CLLocationManager
-  * Model + View + Controller
-  * 대부분의 앱에서 쓰이는 간단한 패턴
-  * 애플의 MVC 패턴은 View와 Controller가 강하게 연결되어 있어 ViewController 가 너무 많은 일을 하게됨
-  * Controller: 가운데에서 Model과 View 모두를 업데이트하는 역할
-  * View: 데이터들을 화면에 보여주는 역할
-  *  Model: 앱의 상태 지속을 위해 데이터를 읽고 쓰는 역할
-
+  *  Core Location 서비스를 구성하고, 시작하고 중지할 수 있음
+  *  location manager 객체는 다음과 같은 location과 관련된 활동들을 지원
+     * 사용자의 현재위치에서 크거나 작은 변화를 추적
+     * 나침반에서 방향 변경 추적
+     * 사용자 위치 기반 이벤트 생성
+     * 근거리 통신기기(Bluetooth Beacon)와 통신
+  * 위치 권한 설정
+    *  When In Use : app이 사용되고 있는 동안에 location service와 이벤트들을 받을 수 있음
+    *  Always : 사용자가 app이 실행되는지 몰라도 location service와 이벤트들을 받을 수 있음
+  
 * KakaoMapAPI
   * Guid: https://apis.map.kakao.com/ios/guide/
   * 로컬: https://developers.kakao.com/docs/latest/ko/local/dev-guide#search-by-keyword
   * 로컬 API의 여러 기능 중, 카테고리 검색 기능 사용
-  * 
