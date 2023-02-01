@@ -28,6 +28,7 @@
   * Guid: https://apis.map.kakao.com/ios/guide/
   * 로컬: https://developers.kakao.com/docs/latest/ko/local/dev-guide#search-by-keyword
   * 로컬 API의 여러 기능 중, 카테고리 검색 기능 사용
+<br>
 
 * Unit Test
   * 단위 테스트: 프로그램의 기본 단위인 모듈을 테스트
