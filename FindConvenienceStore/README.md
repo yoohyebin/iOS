@@ -9,7 +9,7 @@
 * 주변에 편의점이 없거나 오류 발생 시, alert으로 오류 표시
 <br>
 <br>
- * RXSwift를 사용하여 MVVM pattern으로 개발
+  * RXSwift를 사용하여 MVVM pattern으로 개발
 
 ---------------------------------------
 
