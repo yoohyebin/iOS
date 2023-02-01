@@ -28,3 +28,34 @@
   * Guid: https://apis.map.kakao.com/ios/guide/
   * 로컬: https://developers.kakao.com/docs/latest/ko/local/dev-guide#search-by-keyword
   * 로컬 API의 여러 기능 중, 카테고리 검색 기능 사용
+
+* Unit Test
+  * 단위 테스트: 프로그램의 기본 단위인 모듈을 테스트
+  * 모듈이 제대로 구현되어 정해진 기능을 정확히 수행하는지 테스트
+  * 프로그램의 각 부분을 고립시켜 각각의 부분이 정확하게 동작하는지 확인
+  * Unit Test의 구조가 잡혀있으면 추후 리팩토링 후 확인이 쉬워 변경이 쉬움
+
+* XCTest
+  * Xcode 프로젝트에 대한 단위 테스트, 성능 테스트 및 UI 테스트를 만들고 실행
+
+* XCTestCase
+  * Xcode에서 사용하는 테스트 클래스의 기반
+  * 테스트에 필요한 기본적인 기능을 제공
+  * 모든 테스트 클래스는 XCTestCase를 상속받아 구현해야 함
+  * setup(): 테스트 코드 시작 전 실행 (값을 세팅하는 부분)
+  * teardown(): setUp과 반대로 모든 테스트코드가 실행된 후에 호출 (setUp에서 설정한 값들을 해제 시 사용)
+
+* Nimble
+  *  Nimble은 Apple에서 제공하는 XCTest Assertion에서 단점을 극복하기 위해 만들어짐
+  *  expect.to() method를 이용하여 가독성 높은 코드 작성이 가능함
+
+* RXTest
+  * Observable에 시간 개념을 주입
+  * 임의의 Observer를 통해 subscribe 여부 관계 없이 검증 가능
+  * Scheduler의 개념이 필요하고 좀 더 원하는 타이밍에 원하는 값이 나오기 검증을 원할는 경우 사용
+
+* RxBlocking
+  * Observable의 Event 방출을 검증
+  * 특정 시간동안 방출된 Observable의 Event 검증
+  * RxTest의 Scheduler 개념 X
+  * 단순 Observable이 제대로 방출되는지 확인을 원하는 경우 사용
