@@ -8,7 +8,8 @@
 <br>
 
 * SwiftUI Combine을 사용하여 개발
-* "코로나19 예방접종센터 조회서비스" API 사용: https://www.data.go.kr/data/15077586/openapi.do
+* "코로나19 예방접종센터 조회서비스" API 사용
+   * https://www.data.go.kr/data/15077586/openapi.do
 
 ---------------------------------------
 
