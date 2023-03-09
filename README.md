@@ -32,7 +32,7 @@
 - [내 근처 편의점 찾기 애플리케이션](FindConvenienceStore)
 - [코로나19 예방 접종 센터 찾기 애플리케이션](FindCovidCenter)
 - [스타벅스 애플리케이션](StarbucksSampleApp)
-- [번역기 애플리케이션]
+- [번역기 애플리케이션](Translator)
 - [도서 리뷰 애플리케이션]
 - [영화 평점 애플리케이션]
 - [뉴스 애플리케이션]
