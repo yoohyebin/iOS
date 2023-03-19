@@ -15,7 +15,7 @@ ToDo 애플리케이션 만들기
     * 섹션을 이용해 행을 그룹화하여 콘텐츠를 쉽게 탐색할 수 있음
     * 섹션의 헤더와 푸터에 View를 구성하여 추가적인 정보 표시 가능
     
-* UITableViewDelegate
+* UITableViewDataSource는
    * UITableViewDataSource는 테이블 뷰를 생성하고 수정하는데 필요한 정보를 테이블 뷰 객체에 제공
 * UITableViewDelegate
    * UITableViewDelegate는 테이블 뷰의 시각적인 부분을 설정하고, 행의 액션 관리, 엑세서리 뷰 지원
